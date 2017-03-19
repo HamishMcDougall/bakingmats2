@@ -20,7 +20,7 @@ class Home extends Component {
                              <li className="list-group-item"><i className="fa fa-check"></i> Non-stick</li>
                              <li className="list-group-item"><i className="fa fa-check"></i>Easy-to-clean</li>
                              <li className="list-group-item"><i className="fa fa-check"></i>Durable</li>
-                            <li className="list-group-item"><i className="fa fa-check"></i> High Quality Silicone</li>
+                            <li className="list-group-item"><i className="fa fa-check"></i>Free Postage <br/> anywhere in Australia</li>
                          </ul>
                          <div className="panel-body priceWhite text-center">
                              <p className="oldPriceP2">Was <span className="oldPrice">$19.99</span></p>
@@ -135,7 +135,7 @@ class Home extends Component {
                             </div>
 
 
-                
+
                 </div>
 
       </div>

@@ -23,7 +23,7 @@ export default class TakeMoney extends React.Component {
   panelLabel=""
   amount={995}
   currency="AUD"
-  stripeKey="pk_live_S6OKAnlzztWUhswGCKk7xGXk"
+  stripeKey="pk_test_NVw9CdwviRFSyytLzuitGNvw"
   locale="en"
   email="siliconebakingmatsau@gmail.com"
   shippingAddress={true}
