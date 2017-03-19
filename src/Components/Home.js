@@ -84,8 +84,8 @@ class Home extends Component {
                                       <div className="carousel-info">
                                         <img alt="" src="img/woman1.jpg" className="pull-left"/>
                                         <div className="pull-left">
-                                          <span className="testimonials-name">Jessica MacDougall</span>
-                                          <span className="testimonials-post">Mother</span>
+                                          <span className="testimonials-name">Susan Smith</span>
+                                          <span className="testimonials-post">Mother of 2 boys</span>
                                         </div>
                                       </div>
                                     </div>
@@ -99,7 +99,7 @@ class Home extends Component {
                                         <img alt="" src="img/woman2.jpg" className="pull-left"/>
                                         <div className="pull-left">
                                           <span className="testimonials-name">Linda Jones</span>
-                                          <span className="testimonials-post">Mother</span>
+                                          <span className="testimonials-post">Mother of 3 girls</span>
                                         </div>
                                       </div>
                                     </div>
@@ -129,15 +129,13 @@ class Home extends Component {
 
 
 
-                    <footer>
-                        <div className="row">
-                            <div className="col-lg-12">
+
+                            <div className="col-lg-12 foooter">
                                 <p>Copyright &copy; Silicone Baking Mats</p>
                             </div>
-                        </div>
 
-                    </footer>
 
+                
                 </div>
 
       </div>
