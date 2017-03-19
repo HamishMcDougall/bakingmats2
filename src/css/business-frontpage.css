@@ -23,12 +23,12 @@ a{
 }
 
 .business-header {
-    background: url(../img/510873294_old.jpg) no-repeat center center fixed;
+    background: url(../img/bakingMats1.jpg) no-repeat center center fixed;
     -webkit-background-size:cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-     background-position: center;
+     background-position: left;
 }
 
 /* Customize the text color and shadow color and to optimize text legibility. */

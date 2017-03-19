@@ -82,7 +82,7 @@ class Home extends Component {
                                 	<div className="active item">
                                       <blockquote><p>This baking mat has changed the way I bake. It's such a pleasure to bake with the kids and so easy to clean up afterwards</p></blockquote>
                                       <div className="carousel-info">
-                                        <img alt="" src="http://keenthemes.com/assets/bootsnipp/img1-small.jpg" className="pull-left"/>
+                                        <img alt="" src="img/woman1.jpg" className="pull-left"/>
                                         <div className="pull-left">
                                           <span className="testimonials-name">Jessica MacDougall</span>
                                           <span className="testimonials-post">Mother</span>
@@ -94,9 +94,9 @@ class Home extends Component {
                             <div className="col-md-6 ">
                                 <div className="testimonials">
                                 	<div className="active item">
-                                      <blockquote><p>Denim you probably haven't heard of. Lorem ipsum dolor met consectetur adipisicing sit amet, consectetur adipisicing elit, of them jean shorts sed magna aliqua. Lorem ipsum dolor met.</p></blockquote>
+                                      <blockquote><p>I was pleased with the quick delivery. This product has been a pleasure to bake with. Myself and my children love this product</p></blockquote>
                                       <div className="carousel-info">
-                                        <img alt="" src="http://keenthemes.com/assets/bootsnipp/img1-small.jpg" className="pull-left"/>
+                                        <img alt="" src="img/woman2.jpg" className="pull-left"/>
                                         <div className="pull-left">
                                           <span className="testimonials-name">Linda Jones</span>
                                           <span className="testimonials-post">Mother</span>
